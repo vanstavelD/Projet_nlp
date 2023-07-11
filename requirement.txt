@@ -7,3 +7,4 @@ gensim
 texthero
 faker
 elasticsearch
+torch
